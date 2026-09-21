@@ -1,0 +1,5 @@
+1: Primera línea del fichero de prueba
+2: Segunda línea con algo de texto
+3: Tercera línea, más corta
+4: Cuarta línea con acentos: ñ, á, é
+5: Quinta y última línea

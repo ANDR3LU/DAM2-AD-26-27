@@ -1,0 +1,3 @@
+Hola Mundo 2026
+Esto es un fichero de prueba con 123 numeros.
+Contiene vocales, consonantes, digitos y espacios en blanco.

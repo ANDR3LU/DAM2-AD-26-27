@@ -1,0 +1,5 @@
+Primera línea del fichero de prueba
+Segunda línea con algo de texto
+Tercera línea, más corta
+Cuarta línea con acentos: ñ, á, é
+Quinta y última línea
